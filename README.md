@@ -11,6 +11,7 @@ Dis is a Mandelbrot/Julia set viewer written in Python3. I couldn't find a good 
 
 Known bugs:
 - focus point goes wild when the scale is changed, will fix it at some point if I'm bored enough
+- attractor preimages don't work correctly with julia sets, which they were made for
 
 Files:
 - m13.py is the main file
