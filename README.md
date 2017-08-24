@@ -11,3 +11,7 @@ Dis is a Mandelbrot/Julia set viewer written in Python3. I couldn't find a good 
 
 Known bugs:
 - focus point goes wild when the scale is changed, will fix it at some point if I'm bored enough
+
+Files:
+- m13.py is the main file
+- mm1.py is a very minimalistic version of it, used to test out new features before they are added to the main file
