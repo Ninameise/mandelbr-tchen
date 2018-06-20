@@ -12,7 +12,7 @@ def im(number, iteration, peturbation = 0, jseed = 0, ap = False, ri = False):
 		for i in range(iteration):
 			gumi += 1
 			rin = rin**2 + number
-			if abs(rin) > 2:
+			if abs(rin) > 3:
 				return(gumi) # returns the number of iterations once z exceeds 2 and ends calculation
 				break
 
